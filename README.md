@@ -37,14 +37,17 @@ We can conclude that the manufacturing data meets the maximum variance in PSI re
 
 In the first t-test, the sample mean is not statistically different from the population mean of 1500 PSI with a p-value of 0.06. However, when t-tests are done on the individual lots, we can see that, lots 1 and 2 are not statistically different from the population mean with p-values of 1 and 0.6 respectively, lot 3 has a mean which is statistically different from the population mean with a p-value of 0.04.
 
-![T-Test1](https://user-images.githubusercontent.com/47859209/210495991-b062b0d9-20d4-4ad3-9f2b-c1e18a46265a.png)
 1. T-test for Lot 1 p-value = 1
 
-![T-Test2](https://user-images.githubusercontent.com/47859209/210496089-801cb9c7-4a78-4954-94ad-774bb088e73d.png)
+![T-Test1](https://user-images.githubusercontent.com/47859209/210495991-b062b0d9-20d4-4ad3-9f2b-c1e18a46265a.png)
+
 2. T-test for Lot 2 p-value = .6072
 
-![T-Test3](https://user-images.githubusercontent.com/47859209/210496316-4decd836-00cd-48ac-b61f-99f413865aed.png)
+![T-Test2](https://user-images.githubusercontent.com/47859209/210496089-801cb9c7-4a78-4954-94ad-774bb088e73d.png)
+
 3. T-test for Lot 3 p-value = .04168
+
+![T-Test3](https://user-images.githubusercontent.com/47859209/210496316-4decd836-00cd-48ac-b61f-99f413865aed.png)
 
 ## Part 4: Designing a Study Comparing the MechaCar to the Competition
 
